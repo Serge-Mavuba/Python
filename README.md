@@ -1,3 +1,3 @@
 # Python
 --------
-Intro to Python: Basics
+Fundamentals of Python
